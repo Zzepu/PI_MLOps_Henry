@@ -50,7 +50,7 @@ Para llevar a cabo estas recomendaciones, utilice Scikit-Learn junto con las bib
 
 ## **Links:**
 - [Deploy de la API en Render](https://pi-mlops-henry-sepulveda.onrender.com/)
-- [Video de youtube explicando el proyecto](-)
+- [Video de youtube explicando el proyecto](https://youtu.be/fzgkCtgb0xo)
 ## **Canales de contacto:**
 + Linkedin: [Jorge Tiago Nahuel Sepulveda](https://www.linkedin.com/in/tiago-sepulveda-047102243/)
 + Gmail : themindixhack@gmail.com
